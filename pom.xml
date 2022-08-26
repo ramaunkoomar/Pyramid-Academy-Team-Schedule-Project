@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.genspark.pyramidacademyteamscheduleproject/com.genspark.pyramidacademyteamscheduleproject.HelloApplication
+                                com.genspark.pyramidacademyteamscheduleproject/com.genspark.pyramidacademyteamscheduleproject.ScheduleApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
